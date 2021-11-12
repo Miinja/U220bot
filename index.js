@@ -155,7 +155,7 @@ Client.on('message', message => {
      const userData = JSON.parse(fs.readFileSync('Storage/userData.json', 'utf-8'));
      var sender = message.author;
      var Msender = message.mentions.users.first();
-     const channel2upload = Client.channels.cache.get('814512257455095849');
+     const channel2upload = Client.channels.cache.get('907178789853876254');
 
      
      // Grade
