@@ -289,7 +289,7 @@ Client.on('message', message => {
             if(!member.roles.cache.has($75000MSG)) {
                      if(userData[sender.id].messagesSent > 75000) {
                         member.roles.add($75000MSG)
-                        channel2upload.send("Bravo " +`${message.author}`+ " ! Tu as maintenant ** 10 000 Messages **." )
+                        channel2upload.send("Bravo " +`${message.author}`+ " ! Tu as maintenant ** 75 000 Messages **." )
                         console.log("Bravo " +message.author.tag+ " ! Tu as maintenant ** 75 000 Messages **.")
                      }
             }
