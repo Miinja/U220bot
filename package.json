@@ -1,7 +1,7 @@
 {
   "name": "U220",
   "version": "1.0.0",
-  "description": "For download the 410 Client.",
+  "description": "API U220",
   "main": "index.js",
   "dependencies": {
     "discord.js": "^12.5.3",
